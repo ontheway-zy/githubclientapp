@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:githubclientapp/common/global.dart';
 
-void main() => runApp(MyApp());
+//void main() => runApp(MyApp());
+//If you're running an application and need to access the binary messenger before `runApp()` has been called (for example, during plugin initialization), then you need to explicitly call the `WidgetsFlutterBinding.ensureInitialized()` first.
+void main() => Global.init().then((e)=> runApp(MyApp())); //先初始化
 
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
