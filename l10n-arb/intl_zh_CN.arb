@@ -1,0 +1,101 @@
+{
+  "@@last_modified": "2018-12-10T15:46:20.897228",
+  "@@locale":"zh_CN",
+  "title": "Flutter应用",
+  "@title": {
+    "description": "Title for the Demo application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "home": "首页",
+  "@home": {
+    "description": "Title for the Demo application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "Login": "登录",
+  "@Login": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noDescription": "Flutter APP",
+  "@noDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "theme": "换肤",
+  "@theme": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "language": "语言",
+  "@language": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logout": "logout",
+  "@logout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logoutTip": "logoutTip",
+  "@logoutTip": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "cancel",
+  "@cancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes": "yes",
+  "@yes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userName": "userName",
+  "@userName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userNameOrEmail": "userNameOrEmail",
+  "@userNameOrEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "password",
+  "@password": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userNameRequired": "userNameRequired",
+  "@userNameRequired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordRequired": "passwordRequired",
+  "@passwordRequired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userNameOrPasswordWrong": "userNameOrPasswordWrong",
+  "@userNameOrPasswordWrong": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "auto": "跟随系统",
+  "@auto": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "remainingEmailsMessage": "{howMany,plural, =0{没有未读邮件}=1{有{howMany}封未读邮件}other{有{howMany}封未读邮件}}",
+  "@remainingEmailsMessage": {
+    "description": "How many emails remain after archiving.",
+    "type": "text",
+    "placeholders": {
+      "howMany": {
+        "example": 42
+      }
+    }
+  }
+}

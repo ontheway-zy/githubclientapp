@@ -1,0 +1,100 @@
+{
+  "@@last_modified": "2021-02-23T19:19:32.366508",
+  "title": "Flutter APP Title",
+  "@title": {
+    "description": "Title for the Demo application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "home": "Home",
+  "@home": {
+    "description": "Title for the Demo application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "Login": "Login",
+  "@Login": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noDescription": "Flutter APP",
+  "@noDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "theme": "theme",
+  "@theme": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "language": "language",
+  "@language": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logout": "logout",
+  "@logout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logoutTip": "logoutTip",
+  "@logoutTip": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "cancel",
+  "@cancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes": "yes",
+  "@yes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userName": "userName",
+  "@userName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userNameOrEmail": "userNameOrEmail",
+  "@userNameOrEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "password",
+  "@password": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userNameRequired": "userNameRequired",
+  "@userNameRequired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordRequired": "passwordRequired",
+  "@passwordRequired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userNameOrPasswordWrong": "userNameOrPasswordWrong",
+  "@userNameOrPasswordWrong": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "auto": "auto",
+  "@auto": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "remainingEmailsMessage": "{howMany,plural, =0{There are no emails left}=1{There is {howMany} email left}other{There are {howMany} emails left}}",
+  "@remainingEmailsMessage": {
+    "description": "How many emails remain after archiving.",
+    "type": "text",
+    "placeholders": {
+      "howMany": {
+        "example": 42
+      }
+    }
+  }
+}
